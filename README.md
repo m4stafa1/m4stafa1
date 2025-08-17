@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">My name is Mustafa Elrouby and I'm a data scientist student</p>
+<p align="left">My name is Mustafa Elrouby and I'm a data science student</p>
 
 ###
 
